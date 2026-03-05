@@ -15,6 +15,7 @@ Server=localhost,7102
 User=sa
 Password=StrongPass!123
 Database=master
+
 3. Запуск Web API
 
 Открыть проект Web API и запустить его.
@@ -22,6 +23,7 @@ Database=master
 По умолчанию API будет доступен по адресу:
 
 https://localhost:7002
+
 4. Запуск WinForms
 
 Запустить WinForms приложение.
