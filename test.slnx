@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="DatabaseService.Client/DatabaseService.Client.csproj" />
+  <Project Path="DatabaseService.Core/DatabaseService.Core.csproj" />
+  <Project Path="DatabaseService/DatabaseService.csproj" />
+</Solution>
